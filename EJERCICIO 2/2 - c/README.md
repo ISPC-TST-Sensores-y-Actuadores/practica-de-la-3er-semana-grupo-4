@@ -1,4 +1,4 @@
-### **Ejercicio 2 C **
+### **Ejercicio 2 C**
 
 ## **PDF EJE C C**
 Desarrollo del inciso c) del Ejercicio 2
