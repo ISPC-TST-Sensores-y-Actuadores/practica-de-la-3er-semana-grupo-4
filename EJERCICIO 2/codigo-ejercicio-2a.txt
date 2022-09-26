@@ -1,0 +1,18 @@
+CODIGO PARA MOTOR DC
+
+from machine import pin
+m1 = pin (22,pin.out)
+m2 = pin (23,pin.out)
+
+while true:
+m1.value(1)
+m2.value(0)
+utime.sleep(2)
+
+m1.value(0)
+m2.value(0)
+utime.sleep(1)
+
+m1.value(0)
+m2.value(1)
+utime.sleep(2)
